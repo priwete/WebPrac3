@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 720">
+  <rect width="1000" height="720" fill="#2447e8"/>
+  <path d="M0 0h1000v137c-132 48-257 50-377 0C466 85 347 85 226 124 140 152 66 146 0 123z" fill="#c8d65d"/>
+  <path d="M0 596c121-46 243-46 359-9 131 42 268 45 381 3 85-31 169-35 260-15v145H0z" fill="#f05a2a"/>
+  <text x="84" y="300" font-family="Georgia,serif" font-size="177" font-style="italic" fill="#f4f0e7">линия</text>
+  <text x="91" y="382" font-family="monospace" font-size="20" letter-spacing="7" fill="#f4f0e7">A DIGITAL PLACE FOR SLOW IDEAS</text>
+  <path d="M812 210h79v79h-79z" fill="#f4f0e7"/><path d="M832 230h39v39h-39z" fill="#2447e8"/>
+  <path d="M102 516h217M102 536h126" stroke="#f4f0e7" stroke-width="3"/><circle cx="650" cy="518" r="35" fill="#c8d65d"/><circle cx="650" cy="518" r="13" fill="#2447e8"/>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 740">
+  <rect width="1000" height="740" fill="#f05a2a"/>
+  <rect x="48" y="46" width="904" height="648" fill="#f4f0e7"/>
+  <circle cx="520" cy="364" r="233" fill="#2447e8"/>
+  <path d="M187 487c54-110 97-171 147-206 51-35 125-50 182-15 56 35 95 104 135 217L187 487z" fill="#c8d65d"/>
+  <path d="M356 485c22-119 70-184 126-187 65-3 106 68 121 187H356z" fill="#171717"/>
+  <ellipse cx="482" cy="283" rx="64" ry="79" fill="#d99264" transform="rotate(-7 482 283)"/>
+  <path d="M420 257c3-73 57-102 108-63 26 20 35 52 27 82-39-28-87-24-135-19z" fill="#171717"/>
+  <path d="M462 366l34-52 35 53-20 50h-45z" fill="#c77852"/>
+  <path d="M737 145h131v24H737zM737 188h87v12h-87z" fill="#171717"/>
+  <text x="93" y="119" font-family="Georgia,serif" font-size="55" font-style="italic" fill="#171717">noon</text>
+  <text x="95" y="631" font-family="monospace" font-size="19" letter-spacing="4" fill="#171717">COFFEE / EVERYDAY RITUALS</text>
+  <path d="M812 521l52-18 11 32-52 18z" fill="#f05a2a"/>
+</svg>

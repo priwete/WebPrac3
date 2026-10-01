@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 930">
+  <rect width="780" height="930" fill="#d6dfb0"/>
+  <rect x="67" y="65" width="646" height="800" fill="#f4f0e7"/>
+  <path d="M157 775c61-163 73-346 15-522 102 37 185 102 234 195-17 115-36 224-72 327H157z" fill="#2447e8"/>
+  <path d="M438 766c55-117 111-220 188-310-4 103-17 204-50 310h-138z" fill="#c8d65d"/>
+  <path d="M257 661c51-114 115-198 180-265 63 95 103 186 119 265H257z" fill="#f05a2a"/>
+  <circle cx="389" cy="367" r="72" fill="#171717"/><circle cx="389" cy="367" r="51" fill="#d6dfb0"/>
+  <path d="M220 170h340" stroke="#171717" stroke-width="2"/><text x="221" y="256" font-family="Georgia,serif" font-size="74" font-style="italic" fill="#171717">тихий</text><text x="222" y="322" font-family="Georgia,serif" font-size="74" font-style="italic" fill="#171717">сад</text>
+  <text x="221" y="815" font-family="monospace" font-size="17" letter-spacing="4" fill="#171717">BOTANICAL OBJECTS / 2026</text>
+</svg>

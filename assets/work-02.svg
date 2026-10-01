@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 930">
+  <rect width="780" height="930" fill="#171717"/>
+  <rect x="40" y="40" width="700" height="850" fill="#dfe7f5"/>
+  <circle cx="560" cy="236" r="131" fill="#f05a2a"/>
+  <circle cx="560" cy="236" r="98" fill="#f4f0e7"/>
+  <path d="M0 696c121-35 238-61 355-38 111 21 181 86 425 34v238H0z" fill="#2447e8"/>
+  <path d="M131 613c50-115 93-191 153-236 46-35 111-42 152-10 43 33 60 102 66 199l-371 47z" fill="#c8d65d"/>
+  <path d="M210 549c32-101 78-153 128-153 67 0 99 79 112 153H210z" fill="#171717"/>
+  <ellipse cx="339" cy="324" rx="56" ry="72" fill="#c77852"/>
+  <path d="M289 310c-6-67 38-107 89-87 36 14 51 43 43 81-45-20-83-15-132 6z" fill="#171717"/>
+  <text x="78" y="126" font-family="Georgia,serif" font-size="73" font-style="italic" fill="#171717">sova</text>
+  <text x="80" y="824" font-family="monospace" font-size="18" letter-spacing="3" fill="#f4f0e7">NIGHT EDITION / 04</text>
+  <path d="M81 164h196" stroke="#171717" stroke-width="2"/><path d="M513 711h162" stroke="#f4f0e7" stroke-width="2"/>
+</svg>
